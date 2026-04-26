@@ -1,6 +1,6 @@
-|---------|-------------|
-![CypherSint](banner.png)
-|---------|-------------|
+
+![CypherSint](logo.png)
+
 ### **The Ultimate Node-Based OSINT Analysis Platform**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/CypherSint)
@@ -16,7 +16,7 @@
 
 ## Overview
 
-CypherSint combines a powerful **infinite canvas graph interface** with **enterprise-grade security** and **real-time collaboration**. Built for analysts, investigators, and teams who need to visualize complex data relationships while maintaining control over their deployment.
+CypherSint combines a powerful **infinite canvas graph interface** and **real-time collaboration**. Built for analysts, investigators, and teams who need to visualize complex data relationships while maintaining control over their deployment.
 
 ---
 
