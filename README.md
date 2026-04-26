@@ -1,4 +1,6 @@
-# CypherSint
+|---------|-------------||---------|-------------||---------|-------------|
+![CypherSint](banner.png)
+|---------|-------------||---------|-------------||---------|-------------|
 ### **The Ultimate Node-Based OSINT Analysis Platform**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/CypherSint)
@@ -9,8 +11,6 @@
 **CypherSint** is a high-performance, node-based intelligence analysis platform built for investigators. By combining an infinite visualization canvas with an integrated browser and real-time collaboration tools, CypherSint bridges the gap between data collection and actionable intelligence.
 
 > **Visualize connections. Uncover insights.**
-
-![CypherSint](assets/icon.png)
 
 ---
 
