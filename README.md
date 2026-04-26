@@ -8,66 +8,52 @@
 
 **CypherSint** is a high-performance, node-based intelligence analysis platform built for investigators. By combining an infinite visualization canvas with an integrated browser and real-time collaboration tools, CypherSint bridges the gap between data collection and actionable intelligence.
 
----
+> **Visualize connections. Uncover insights.**
 
-## 🚀 Key Highlights
-
-* **Infinite Analysis Canvas:** Map complex relationships with 8 specialized node types.
-* **Integrated OSINT Browser:** Multi-tabbed, secure browsing with built-in investigative tools.
-* **Seamless Discord Integration:** Real-time team collaboration via an embedded client.
-* **Enterprise-Grade Security:** Hardware ID (HWID) fingerprinting and admin-mediated access.
+![CypherSint](assets/icon.png)
 
 ---
 
-## 🧠 Core Intelligence Features
+## Overview
 
-### The Node System
-Transform raw data into visual intelligence. Our node-based architecture allows for rapid mapping of entities and their connections.
-
-* **8 Specialized Entities:** Text, Name, Email, Phone, Location, Reason, Image, and Box.
-* **Smart Connections:** 4-sided Bézier curve linking with visual "Ready/Pending" states.
-* **Deep Customization:** 13 professional fonts, hex color pickers, and glow effects to highlight critical paths.
-* **Rich Media:** Embed PNG, JPG, GIF, WebP, and MP4/WebM directly into your graph.
-
-### Visualization Controls
-
-| Feature | Capability |
-| :--- | :--- |
-| **Navigation** | Infinite panning (Space+Drag) and 10%–300% smooth zoom. |
-| **UX Logic** | Content-aware fading (fades data while maintaining structure). |
-| **Themes** | 8 Presets (Midnight, Cyber, etc.) or full custom hex themes. |
-| **Organization** | Snap-to-grid, multi-select, and dynamic resizing. |
+CypherSint combines a powerful **infinite canvas graph interface** with **enterprise-grade security** and **real-time collaboration**. Built for analysts, investigators, and teams who need to visualize complex data relationships while maintaining control over their deployment.
 
 ---
 
-## 🌐 Investigative Power-Tools
+## Core Features
 
-### 🛡️ Built-in OSINT Browser
-No more switching windows. Use the integrated, isolated browser environment.
-* **Right-Click Intelligence:** Instantly perform Reverse Image Searches or WHOIS lookups.
-* **DevTools Access:** Full F12 inspector for analyzing website code and network traffic.
-* **Privacy-First:** Isolated contexts with "Clear Data" and Incognito options.
+### 🎯 Node-Based Analysis
 
-### 💬 Discord Tactical Hub
-A fully embedded Discord client (`Ctrl+Shift+D`) allows for instant communication.
-* **Capture & Share:** Built-in region screenshot tool to send graph segments directly to channels.
-* **Persistent Sessions:** Stay logged in across application restarts.
+| Feature | Description |
+|---------|-------------|
+| **8 Node Types** | Text, Name, Email, Phone, Location, Reason, Image, Box |
+| **Visual Connections** | Draw relationships between data points with Bézier curves |
+| **Infinite Canvas** | Zoom 10%-300%, pan with Space+Drag or middle-click |
+| **Media Embedding** | Images (PNG, JPG, GIF, WebP) and videos (MP4, WebM) |
+| **Multi-Select** | Select and manipulate multiple nodes simultaneously |
+
+**Node Customization:**
+- Border, background, and text colors (custom hex)
+- 13 font families (Arial, Helvetica, Georgia, Times, Courier, Verdana, Trebuchet, Impact, Comic Sans, Palatino, Tahoma, Lucida Console)
+- Text sizes 8px–96px
+- Glow/shadow effects per node
+
+
+### 🌐 Integrated Tools
+
+| Tool | Features |
+|------|----------|
+| **Built-in Browser** | Tabbed browsing, bookmarks, OSINT quick-search, DevTools |
+| **Discord** | Full Discord web client, screen capture & share, toggle visibility |
+| **Gemini AI** | Google Gemini web app embedded, persistent login, image generation |
+| **File Vault** | 1GB uploads per file, user-owned storage, cross-device access, sharing by hardware ID |
+
+### 🎨 Personalization
+
+- **8 Color Themes** — Red, Blue, Green, Purple, Orange, Pink, Cyan, Yellow
+- **Custom Colors** — Hex color picker for precise theming
+- **Persistent Settings** — Themes, fonts, and preferences saved across session
 
 ---
 
-## ⌨️ Productivity Shortcuts
-
-| Category | Shortcut | Action |
-| :--- | :--- | :--- |
-| **Project** | `Ctrl + S` / `O` | Save or Open Project |
-| **Canvas** | `Space + Drag` | Pan Workspace |
-| **Interface** | `Ctrl + Shift + D` | Toggle Discord Panel |
-| **Browser** | `Ctrl + T` | New Browser Tab |
-
----
-
-**Maintainer:** CypherSint
-**Last Updated:** April 2026
-
----
-*Developed for investigators, by investigators.*
+Built for analysts, by analysts.
