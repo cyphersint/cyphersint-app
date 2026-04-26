@@ -55,5 +55,7 @@ CypherSint combines a powerful **infinite canvas graph interface** and **real-ti
 - **Persistent Settings** — Themes, fonts, and preferences saved across session
 
 ---
+![CypherSint](logo.png)
+
 
 Built for analysts, by analysts.
