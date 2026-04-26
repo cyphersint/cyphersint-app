@@ -1,6 +1,6 @@
-|---------|-------------||---------|-------------||---------|-------------|
+|---------|-------------|
 ![CypherSint](banner.png)
-|---------|-------------||---------|-------------||---------|-------------|
+|---------|-------------|
 ### **The Ultimate Node-Based OSINT Analysis Platform**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/CypherSint)
